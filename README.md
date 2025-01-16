@@ -1,8 +1,8 @@
 In this project, the goal is to predict the final sale price of residential homes based on various features that influence housing prices. While homebuyers often focus on visible elements like the number of bedrooms or aesthetic appeal, the dataset reveals that many other factors, such as the height of the basement ceiling or proximity to railroads, play a significant role in price determination.
 The dataset includes 79 explanatory variables that cover nearly every aspect of residential properties in Ames, Iowa. These features provide a comprehensive view of the factors that affect housing prices, offering a challenging yet insightful opportunity to build predictive models and understand real-world price negotiations. Here's a brief version of what you'll find in the data description file.
 
-SalePrice - the property's sale price in dollars. This is the target variable that you're trying to predict.
-MSSubClass: The building class
+1. SalePrice - the property's sale price in dollars. This is the target variable that you're trying to predict.
+2. MSSubClass: The building class
 MSZoning: The general zoning classification
 LotFrontage: Linear feet of street connected to property
 LotArea: Lot size in square feet
@@ -10,7 +10,7 @@ Street: Type of road access
 Alley: Type of alley access
 LotShape: General shape of property
 LandContour: Flatness of the property
-  Utilities: Type of utilities available
+Utilities: Type of utilities available
 LotConfig: Lot configuration
 LandSlope: Slope of property
 Neighborhood: Physical locations within Ames city limits
