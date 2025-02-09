@@ -1,4 +1,4 @@
-### Advanced-Regression-Techniques---House-Pricing
+### Advanced-Regression-Techniques | House-Pricing Prediction 
 In this project, the goal is to predict the final sale price of residential homes based on various features that influence housing prices. While homebuyers often focus on visible elements like the number of bedrooms or aesthetic appeal, the dataset reveals that many other factors, such as the height of the basement ceiling or proximity to railroads, play a significant role in price determination.
 The dataset includes 79 explanatory variables that cover nearly every aspect of residential properties in Ames, Iowa. These features provide a comprehensive view of the factors that affect housing prices, offering a challenging yet insightful opportunity to build predictive models and understand real-world price negotiations. Here's a brief version of what you'll find in the data description file.
 
